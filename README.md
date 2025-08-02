@@ -8,6 +8,11 @@ Connect Sphere is a social networking platform where users can:
 - View user profiles
 - Enjoy a modern UI built with React, TypeScript, and Tailwind CSS
 
+## 🔗 Live Demo
+
+You can access the deployed application here:  
+👉 [https://connect-sphere-pi.vercel.app](https://connect-sphere-pi.vercel.app)
+
 ## How it works
 
 1. **Authentication**: Users can register and log in securely.
